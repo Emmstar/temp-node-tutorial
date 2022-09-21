@@ -1,0 +1,11 @@
+{
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "javascript.format.semicolons": "remove",
+  "typescript.format.semicolons": "remove",
+  "editor.defaultFormatter": "vscode.typescript-language-features",
+  "js/ts.implicitProjectConfig.module": "CommonJS",
+  "editor.suggest.showModules": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
+}
